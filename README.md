@@ -1,3 +1,2 @@
 # git-exercise
 
-Hello!
